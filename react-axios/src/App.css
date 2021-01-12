@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+}
+
+.pokemon {
+  margin: 1% 35%;
+  width: 550px;
 }
 
 .App-logo {
